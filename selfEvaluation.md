@@ -1,7 +1,7 @@
 # Self Evaluation
 
 - How confident do you feel in your understanding and fluency with the `for` statement?
-Not very confident.
+Somewhat confident.
 - This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
 I felt lost, I had to back up, calm down, take a break and come back to it later and then begin the slow process of trying to teach myself `for` statements.
 - What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
