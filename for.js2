@@ -1,0 +1,8 @@
+// As you complete each challenge, RUN THE CODE to ensure it works. You can do this by
+// running `node <filepath>`. If you are in this directory, you'd run `node for.js`.
+  
+// Challenge 1
+// Use a for statement to log to the console all even numbers between 25 and 75.
+for (var i = 26; i < 75; i += 2) {
+    console.log(i);
+}
